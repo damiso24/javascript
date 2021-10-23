@@ -1,6 +1,6 @@
 # JavaScript and DOM Manipulation
 
-Within this project I will create a table dynamically based upon a dataset provided (/static/js/data.js). This table will allow users to filter the data for specific values. To accomplish this I will use JavaScript, HTML, CSS, and D3.js.
+Within this project I will create a dynamic table based upon a fictional dataset (/static/js/data.js). This table will allow users to pull data in and filter it for specific values. To accomplish this I will use JavaScript, HTML, CSS, and D3.js.
 
 ### Automatic Table and Date Search
 
@@ -8,7 +8,7 @@ Within this project I will create a table dynamically based upon a dataset provi
 
 * Append a table to the web page that adds new rows of data for each UFO sighting.
 
-* Write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
+* JavaScript code that listens for events and search through the `date/time` column to find rows that match user input.
 
 ### Live website: https://damiso24.github.io/javascript/
 
