@@ -1,5 +1,7 @@
 # JavaScript and DOM Manipulation
 
+![nasa.jpg](nasa.jpg)
+
 Within this project I will create a dynamic table based upon a fictional dataset (/static/js/data.js). This table will allow users to pull data in and filter it for specific values. To accomplish this I will use JavaScript, HTML, CSS, and D3.js.
 
 ### Automatic Table and Date Search
